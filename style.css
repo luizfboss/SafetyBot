@@ -35,7 +35,7 @@ header{
 
 main{
     margin-bottom: 48px;
-    border-top: 0.4px solid #cac4ec;
+    border-top: 0.4px solid #ffffff;
 }
 
 #content1{
@@ -64,7 +64,7 @@ main{
     font-family: 'Sarala', sans-serif;
     font-weight: 400;
     font-size: 24px;
-    color: #cdcfda;
+    color: #ffffff;
 }
 
 #content1-img{ 
@@ -72,7 +72,7 @@ main{
 }
 
 #content1-button{
-    background-color:#cdcfda;
+    background-color:hsl(0, 0%, 100%);
     width: 180px;
     height: 60px;
     border: none;
@@ -84,7 +84,7 @@ main{
     color: #2F2325;
 }
 #content1-button:hover{
-    background-color:#8284f7;
+    background-color:#b1b2fc;
 }
 
 
@@ -116,7 +116,7 @@ main{
 
 footer{
     padding: 32px;
-    border-top: 00.4px solid #cac4ec;
+    border-top: 00.4px solid #ffffff;
 }
 #footer-id{
     height: 70px;
